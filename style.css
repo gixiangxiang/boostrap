@@ -24,5 +24,23 @@
 
 .pic {
     width: 100%;
-    /* height: 100%; */
 }
+
+
+/* 
+.nav-dropdown:hover .nav-li {
+    opacity: 1;
+}
+
+.nav-li {
+    display: block;
+    opacity: 0;
+}
+
+.nav-li:hover {
+    opacity: 1;
+}
+
+.nav-link.dropdown-toggle:hover+.nav-li {
+    opacity: 1;
+} */
